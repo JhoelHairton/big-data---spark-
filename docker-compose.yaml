@@ -1,0 +1,50 @@
+#docker-compose.yaml
+services:
+  m2m:
+    container_name: m2m
+    build: .
+    tty: true
+    restart: unless-stopped
+    volumes:
+      - ./notebooks:/opt/notebooks:rw
+    ports:
+      - "3131:3131" # JupyterLab (OBLIGATORIO)
+      - "8501:8501" # Streamlit (OPCIONAL) 
+      - "4040:4040" # Spark UI (OPCIONAL) muestra los Jobs
+    # --- Variables de entorno OPCIONALES ---
+    environment:
+      - PYSPARK_PYTHON=python # Spark opcional
+      - PYSPARK_DRIVER_PYTHON=python # Spark opcional
+      # - KAFKA_BOOTSTRAP=redpanda:9092 # Kafka opcional
+
+  # Descomenta todo este bloque SOLO si quieres trabajar Spark distribuido
+  # spark-master:
+  #   image: public.ecr.aws/bitnami/spark:3.5.1
+  #   container_name: spark-master
+  #   environment:
+  #     - SPARK_MODE=master
+  #   ports:
+  #     - "7077:7077"   # puerto RPC del master
+  #     - "8080:8080"   # UI del master
+
+  # spark-worker-1:
+  #   image: public.ecr.aws/bitnami/spark:3.5.1
+  #   container_name: spark-worker-1
+  #   depends_on:
+  #     - spark-master
+  #   environment:
+  #     - SPARK_MODE=worker
+  #     - SPARK_MASTER_URL=spark://spark-master:7077
+  #     - SPARK_WORKER_MEMORY=4G
+  #     - SPARK_WORKER_CORES=1
+
+  # spark-worker-2:
+  #   image: public.ecr.aws/bitnami/spark:3.5.1
+  #   container_name: spark-worker-2
+  #   depends_on:
+  #     - spark-master
+  #   environment:
+  #     - SPARK_MODE=worker
+  #     - SPARK_MASTER_URL=spark://spark-master:7077
+  #     - SPARK_WORKER_MEMORY=4G
+  #     - SPARK_WORKER_CORES=1

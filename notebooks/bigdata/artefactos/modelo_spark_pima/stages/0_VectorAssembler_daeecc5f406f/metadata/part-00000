@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1763752112359,"sparkVersion":"3.5.1","uid":"VectorAssembler_daeecc5f406f","paramMap":{"inputCols":["npreg","glu","bp","skin","bmi","ped","age"],"outputCol":"features"},"defaultParamMap":{"handleInvalid":"error","outputCol":"VectorAssembler_daeecc5f406f__output"}}

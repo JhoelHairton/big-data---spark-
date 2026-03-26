@@ -1,0 +1,14 @@
+feature,importance,rank
+num__Ingreso mes,1.3613826409609096,1
+ordinal__Nivel estudio,0.07079125137112742,2
+nominal__Trabajo dependiente_Sí,0.0037368473862360863,3
+num__Edad,0.0004613782333059424,4
+nominal__Funcion principal_Servicio al cliente,-0.00026246332212875867,5
+nominal__Sexo_Masculino,-0.00015329540275356158,6
+nominal__Funcion principal_Consultor,0.0,7
+nominal__Funcion principal_Contratista,0.0,7
+nominal__Funcion principal_Emprendedor,0.0,7
+nominal__Funcion principal_Freelance,0.0,7
+nominal__Funcion principal_Producción,0.0,7
+nominal__Funcion principal_Ventas,0.0,7
+num__Antiguedad ultimo trabajo,0.0,7

@@ -1,0 +1,32 @@
+2025-11-20 23:43:36,717 - ERROR - Ocurrió un ERROR en la aplicación
+Traceback (most recent call last):
+  File "/opt/notebooks/261ml/app.py", line 43, in <module>
+    1 / 0  # Error intencional
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-11-20 23:44:16,051 - WARNING - Este es un mensaje de WARNING desde Streamlit.
+2025-11-20 23:44:16,139 - WARNING - Este es un mensaje de WARNING desde Streamlit.
+2025-11-20 23:44:17,200 - ERROR - Ocurrió un ERROR en la aplicación
+Traceback (most recent call last):
+  File "/opt/notebooks/261ml/app.py", line 43, in <module>
+    1 / 0  # Error intencional
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-11-20 23:44:18,257 - ERROR - Ocurrió un ERROR en la aplicación
+Traceback (most recent call last):
+  File "/opt/notebooks/261ml/app.py", line 43, in <module>
+    1 / 0  # Error intencional
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-11-20 23:44:43,053 - ERROR - Ocurrió un ERROR en la aplicación
+Traceback (most recent call last):
+  File "/opt/notebooks/261ml/app.py", line 43, in <module>
+    1 / 0  # Error intencional
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-11-20 23:44:44,078 - ERROR - Ocurrió un ERROR en la aplicación
+Traceback (most recent call last):
+  File "/opt/notebooks/261ml/app.py", line 43, in <module>
+    1 / 0  # Error intencional
+    ~~^~~
+ZeroDivisionError: division by zero

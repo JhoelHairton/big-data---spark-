@@ -1,0 +1,17 @@
+key,value
+DATA_FILE,credito_cleandata_4model.csv
+TARGET,Aprobado
+RANDOM_STATE,42
+y_train_prevalence(POS=1),0.5
+y_test_prevalence(POS=1),0.5
+n_train,48
+n_test,12
+cv_n_splits,5
+cv_type,StratifiedKFold
+smote,enabled (k_neighbors=5)
+ohe_handle_unknown,ignore
+scaler,StandardScaler (num)
+version_TS,v1
+num_cols,"Edad, Antiguedad ultimo trabajo, Ingreso mes"
+cat_nominal,"Sexo, Trabajo dependiente, Funcion principal"
+cat_ordinal,Nivel estudio

@@ -1,0 +1,8 @@
+key,value
+baseline_best_name,RFS
+tuned_best_name,RFS
+delta_f1_macro,0.023377
+winner_name,RFS
+cv_same_splits,5
+cv_type,StratifiedKFold
+version_TS,v1

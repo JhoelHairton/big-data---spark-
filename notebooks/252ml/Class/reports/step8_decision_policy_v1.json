@@ -1,0 +1,17 @@
+{
+  "model_selected": "RFS",
+  "best_threshold": 0.4799999999999999,
+  "oof_summary": {
+    "ACC": 0.9583333333333334,
+    "BALACC": 0.9583333333333333,
+    "PREC": 1.0,
+    "REC": 0.9166666666666666,
+    "F1": 0.9565217391304348,
+    "F1_MAC": 0.9582608695652174,
+    "MCC": 0.9198662110077999,
+    "ROC_AUC_OOF": 0.9704861111111112,
+    "PR_AUC_OOF": 0.9778836754643203
+  },
+  "notes": "Umbral elegido maximizando F1_macro; desempate por BALACC, PREC, REC, MCC.",
+  "version_TS": "v1"
+}

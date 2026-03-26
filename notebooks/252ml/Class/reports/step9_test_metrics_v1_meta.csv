@@ -1,0 +1,8 @@
+key,value
+BEST_THR,0.4799999999999999
+n_test,12
+prevalence_test_POS,0.5
+predicted_pos_rate,0.5
+DATA_FILE,credito_cleandata_4model.csv
+TARGET,Aprobado
+version_TS,v1

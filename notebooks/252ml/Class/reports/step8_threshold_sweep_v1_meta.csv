@@ -1,0 +1,9 @@
+key,value
+DATA_FILE,credito_cleandata_4model.csv
+TARGET,Aprobado
+winner_name,RFS
+BEST_THR,0.4799999999999999
+y_train_prevalence(POS=1),0.5
+cv_thr_splits,5
+criterion,"F1_macro; tie-break: balacc, prec, rec, mcc"
+version_TS,v1

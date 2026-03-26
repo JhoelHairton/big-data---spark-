@@ -1,0 +1,61 @@
+Sexo,Trabajo dependiente,Funcion principal,Nivel estudio,Edad,Antiguedad ultimo trabajo,Ingreso mes,Aprobado,Line credito
+Femenino,Sí,Administrativo,Secundaria,25,3,2798,No,2588
+Femenino,Sí,Producción,Técnico,35,5,4044,No,3932
+Femenino,Sí,Servicio al cliente,Bachiller,32,2,3210,No,3577
+Masculino,Sí,Administrativo,Bachiller,44,5,4527,No,4871
+Masculino,Sí,Servicio al cliente,Magíster,45,6,5018,No,5657
+Masculino,Sí,Servicio al cliente,Técnico,40,4,4327,No,4216
+Masculino,Sí,Administrativo,Secundaria,42,5,4402,No,3963
+Masculino,Sí,Producción,Técnico,32,1,3464,No,3635
+Masculino,No,Consultor,Secundaria,29,4,3253,No,2776
+Masculino,Sí,Ventas,Secundaria,26,2,2344,No,2292
+Masculino,No,Freelance,Bachiller,33,0,3841,No,4052
+Masculino,Sí,Administrativo,Bachiller,44,6,5131,No,5325
+Femenino,Sí,Servicio al cliente,Técnico,38,6,4386,No,4283
+Masculino,Sí,Freelance,Magíster,44,6,5007,No,5507
+Masculino,Sí,Administrativo,Secundaria,44,3,4832,No,4457
+Femenino,No,Consultor,Bachiller,45,0,5104,No,5168
+Masculino,No,Consultor,Secundaria,43,4,4436,No,3891
+Masculino,No,Freelance,Técnico,33,1,3231,No,3099
+Femenino,Sí,Ventas,Secundaria,35,1,3301,No,3110
+Masculino,Sí,Administrativo,Bachiller,30,0,2991,No,3350
+Femenino,Sí,Producción,Técnico,22,0,2510,No,2658
+Masculino,Sí,Ventas,Magíster,25,2,2619,No,3378
+Masculino,Sí,Freelance,Bachiller,23,0,2592,No,3130
+Femenino,No,Consultor,Secundaria,39,2,3935,No,3345
+Masculino,No,Freelance,Bachiller,36,2,3646,No,3686
+Femenino,Sí,Ventas,Bachiller,22,3,2430,No,2939
+Femenino,No,Emprendedor,Técnico,22,4,2349,No,2152
+Femenino,Sí,Producción,Técnico,37,6,4008,No,3948
+Femenino,Sí,Administrativo,Secundaria,26,0,2944,No,2771
+Femenino,No,Emprendedor,Técnico,41,4,4193,No,3883
+Femenino,No,Freelance,Magíster,52,6,7748,Sí,7617
+Masculino,No,Freelance,Bachiller,48,4,7753,Sí,7364
+Femenino,No,Emprendedor,Bachiller,36,0,6086,Sí,5903
+Masculino,No,Freelance,Bachiller,43,0,6389,Sí,6052
+Femenino,No,Consultor,Bachiller,39,3,6294,Sí,6048
+Masculino,Sí,Servicio al cliente,Técnico,33,3,5659,Sí,5613
+Femenino,Sí,Administrativo,Doctor,54,11,7661,Sí,8090
+Masculino,Sí,Producción,Bachiller,54,8,7724,Sí,7540
+Femenino,No,Freelance,Bachiller,37,3,5846,Sí,5719
+Masculino,Sí,Ventas,Bachiller,41,7,7184,Sí,7242
+Masculino,Sí,Servicio al cliente,Bachiller,49,9,7044,Sí,7149
+Masculino,Sí,Servicio al cliente,Doctor,47,5,6794,Sí,7353
+Femenino,Sí,Producción,Técnico,54,9,8000,Sí,7467
+Femenino,No,Freelance,Magíster,36,4,6391,Sí,6393
+Masculino,No,Freelance,Técnico,48,7,8000,Sí,7363
+Femenino,Sí,Producción,Bachiller,32,4,5804,Sí,5985
+Masculino,Sí,Freelance,Bachiller,54,11,7779,Sí,7718
+Masculino,No,Freelance,Secundaria,44,5,6581,Sí,5765
+Femenino,Sí,Freelance,Doctor,50,9,7799,Sí,8453
+Femenino,Sí,Ventas,Secundaria,52,9,7913,Sí,7090
+Masculino,Sí,Producción,Bachiller,52,6,7635,Sí,7448
+Femenino,Sí,Producción,Bachiller,50,9,7890,Sí,7755
+Masculino,No,Freelance,Bachiller,30,0,5199,Sí,4979
+Masculino,Sí,Producción,Magíster,34,7,5260,Sí,5644
+Masculino,No,Freelance,Bachiller,47,4,6960,Sí,6817
+Femenino,No,Contratista,Bachiller,45,11,6560,Sí,6432
+Femenino,Sí,Servicio al cliente,Doctor,38,4,6190,Sí,6792
+Femenino,Sí,Administrativo,Bachiller,49,9,8000,Sí,8008
+Masculino,Sí,Administrativo,Magíster,31,2,5346,Sí,5698
+Femenino,No,Freelance,Bachiller,39,5,6078,Sí,5882
